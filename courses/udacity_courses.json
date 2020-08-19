@@ -1,0 +1,2619 @@
+[
+  {
+    "title": "Introduction to Cybersecurity",
+    "headline": "Get your start in the high growth field of Cybersecurity by building foundational skills in how to evaluate, maintain, and monitor the security of computer systems.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Ron Woerner, CISSP, CISM",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jerry Smith",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Christine Izuakor, PhD, CISSP",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sean Pike, Esq., M.S.",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Intro to Machine Learning with PyTorch",
+    "headline": "Learn foundational machine learning techniques -- from data manipulation to unsupervised and supervised algorithms.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dan Romuald Mbanga",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jennifer Staab",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sean Carrell",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jay Alammar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrew Paster",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become an AI Product Manager",
+    "headline": "Learn to develop AI products that deliver business value. Build skills that help you compete in the new AI-powered world. ",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Alyssa Simpson-Rochwerger",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Meeta Dash",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Kiran Vajapey",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Kirsten Gokay",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrea Butkovic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Sensor Fusion Engineer",
+    "headline": "Learn to fuse lidar point clouds, radar signatures, and camera images using Kalman Filters to perceive the environment and detect and track vehicles and pedestrians over time.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "David Silver",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Stephen Welch",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andreas Haja",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Abdullah Zaidi",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Aaron Brown",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Front End Web Developer",
+    "headline": "Learn how to build high quality websites and dynamic applications to create stunning user experiences for the web.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Daniel Silber-Baker",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Rachel Manning",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Alyssa Hope",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Richard Kalehoff",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Data Visualization",
+    "headline": "Combine data, visuals, and narrative to tell impactful stories and make data-driven decisions.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Robert Crocker",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Malavica Sridhar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ben Jones",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Full Stack Web Developer",
+    "headline": "Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Amy Hua",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Caryn McCarthy",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Gabriel Ruttner",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Kennedy Behrman",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Data Streaming ",
+    "headline": " Learn the skills to take you into the next era of data engineering. ",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Ben Goldberg",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Judit Lantos",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "David Drummond",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jillian Kim",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "AI for Business Leaders",
+    "headline": "Master the foundations of artificial intelligence so you can strategically implement AI in your company. Leverage machine learning technologies to power corporate growth, increase efficiency, and enhance customer experiences.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "William Ross",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Product Manager",
+    "headline": "Envision and lead the product strategy of industry-defining products, and learn to successfully bring them to market. Influence the execution of product development as a Product Manager, one of the most highly-coveted roles in technology.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Anastasia Root",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Alex King",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Yuva Murugan",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Intel\u00ae Edge AI for IoT Developers",
+    "headline": "Lead the development of cutting-edge Edge AI applications for the future of the Internet of Things. Leverage the Intel\u00ae Distribution of OpenVINO\u2122 Toolkit to fast-track development of high-performance computer vision & deep learning inference applications.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Stewart Christie",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Michael Virgo",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Soham Chatterjee",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Vaidheeswaran Archana",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Growth and Acquisition Strategy",
+    "headline": "Hone specialized Product Management skills in growth and acquisition strategy by learning how to build an agile acquisition plan with market-based measurable KPIs which fits well into the overall growth strategy.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": []
+  },
+  {
+    "title": "Programming for Data Science with R",
+    "headline": "Prepare for a data science career by learning the fundamental data programming tools: R, SQL, command line, and git. ",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Derek Steer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juno Lee ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Richard Kalehoff",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Karl Krueger",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Product Manager Interview Preparation",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Become a Growth Product Manager",
+    "headline": "Hone specialized Product Management skills in growth strategy. Lead experimentation and data-driven decision-making in your organization to drive products to reach the next level of scale, impact, and profitability.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": []
+  },
+  {
+    "title": "Material Design for Android Developers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Managing Remote Teams with Upwork",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Become a Java Web Developer",
+    "headline": "Learn enterprise scale back-end development with Java, and be prepared for the software engineering jobs that are in demand at a majority of Fortune 500 companies like Google, Amazon, Netflix, and more.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Kesha Williams",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sareeta Panda",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Peter Zastoupil",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Alex Pritchard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Introduction to Machine Learning Course",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Engagement & Monetization | Mobile Games",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Psychology",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Get Your Startup Started",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Machine Learning with TensorFlow",
+    "headline": "Learn foundational machine learning techniques - from data manipulation to unsupervised and supervised algorithms.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dan Romuald Mbanga",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jennifer Staab",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sean Carrell",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jay Alammar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrew Paster",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juan Delgado",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Michael Virgo",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Passwordless Login Solutions for Android",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Google Maps APIs",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Mobile Design and Usability for Android",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Strengthen Your LinkedIn Network & Brand",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "How to Make an iOS App",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to DevOps",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Configuring Linux Web Servers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Reinforcement Learning",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Firebase Analytics: Android",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Network Security",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Backend",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "C++ For Programmers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Java Programming Basics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Spark",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Applied Cryptography",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Deploying Applications with Heroku",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Point & Click App Development",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Firebase in a Weekend: iOS",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Version Control with Git",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "AWS DeepRacer",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "JavaScript and the DOM",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Advanced Operating Systems",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Passwordless Login Solutions for iOS",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Data Analysis and Visualization",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Advanced Android with Kotlin",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Computability, Complexity & Algorithms",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "HTTP & Web Servers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "VR Interview Prep",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "High Performance Computing",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Deep Learning with PyTorch",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Asynchronous JavaScript Requests",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Inferential Statistics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Refresh Your Resume",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "The MVC Pattern in Ruby",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Algorithms",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "WeChat Mini Program Development",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Relational Databases",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to AJAX",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "ES6 - JavaScript Improved",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Physics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Database Systems Concepts & Design",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Embedded Systems",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Networking for Web Developers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Artificial Intelligence for Robotics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "iOS Interview Prep",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "SQL for Data Analysis",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Server-Side Swift",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Programming Languages",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Mobile Design and Usability for iOS",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Self-Driving Fundamentals: Featuring Apollo ",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Differential Equations in Action",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Deploying a Hadoop Cluster",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Firebase in a Weekend: Android",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Full-Stack Interview Prep",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Data Wrangling with MongoDB",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Front-End Interview Prep",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Theoretical Computer Science",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Artificial Intelligence",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Statistics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Software Debugging",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Eigenvectors and Eigenvalues",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Swift for Developers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Data Structures & Algorithms in Swift",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Kotlin Bootcamp for Programmers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Design of Computer Programs",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "How to Build a Startup",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "AutoLayout",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Machine Learning Interview Preparation",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "High Performance Computer Architecture",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Full Stack Foundations",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Interactive 3D Graphics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Software Testing",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Objective-C for Swift Developers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Core ML: Machine Learning for iOS",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Shell Workshop",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to TensorFlow for Deep Learning",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Introduction to Computer Vision",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Introduction to TensorFlow Lite",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Developing Android Apps",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Statistics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Swift for Beginners",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "A/B Testing for Business Analysts",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "GT - Refresher - Advanced OS",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Introduction to Virtual Reality",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Grand Central Dispatch (GCD)",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to HTML and CSS",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Designing RESTful APIs",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Object Oriented Programming in Java",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "HTML5 Canvas",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Data Analysis with R",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Compilers: Theory and Practice",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Knowledge-Based AI: Cognitive Systems",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Object-Oriented JavaScript",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Introduction to Python Programming",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "JavaScript Testing",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "A/B Testing",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "How to Make a Platformer Using libGDX",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Dynamic Web Applications with Sinatra",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Introduction to Graduate Algorithms",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Cyber-Physical Systems Security",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Hadoop and MapReduce",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to JavaScript",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to jQuery",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Localization Essentials",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "2D Game Development with libGDX",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Human-Computer Interaction",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Machine Learning",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Computer Networking",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Data Analysis",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "iOS Persistence and Core Data",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Software Analysis & Testing",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Android Interview Prep",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Machine Learning for Trading",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Real-Time Analytics with Apache Storm",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Writing READMEs",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Progressive Web Apps",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Data Visualization and D3.js",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Data Visualization in Tableau",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Software Development Process",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Data Science",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Firebase Analytics: iOS",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Model Building and Validation",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Offline Web Applications",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Kotlin for Android Developers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Secure and Private AI",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Browser Rendering Optimization",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Learn Swift Programming Syntax",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Artificial Intelligence",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Developing Android Apps with Kotlin",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "UX Design for Mobile Developers",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Scalable Microservices with Kubernetes",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Web Accessibility",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Android Basics: Data Storage",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Descriptive Statistics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Data Science Interview Prep",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Introduction to Operating Systems",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Android Basics: Networking",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to iOS App Development with Swift",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Authentication & Authorization: OAuth",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Information Security",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Software Architecture & Design",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Craft Your Cover Letter",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intel\u00ae Edge AI Fundamentals with OpenVINO\u2122",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Advanced Android App Development",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "App Monetization",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "What is Programming?",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Building High Conversion Web Forms",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Client-Server Communication",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Android Basics: User Interface",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "App Marketing",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "UIKit Fundamentals",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Time Series Forecasting",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "JavaScript Promises",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Build Native Mobile Apps with Flutter",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Responsive Images",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Xcode Debugging",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Gradle for Android and Java",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Machine Learning: Unsupervised Learning",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Segmentation and Clustering",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Big Data Analytics in Healthcare",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Android Basics: User Input",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Android Performance",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "JavaScript Design Patterns",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Product Design",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Classification Models",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "iOS Networking with Swift",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Linear Algebra Refresher Course",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Website Performance Optimization",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Android Basics: Multiscreen Apps",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Problem Solving with Advanced Analytics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Creating an Analytical Dataset",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Linux Command Line Basics",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Rapid Prototyping",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Front End Frameworks",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Web Tooling & Automation",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Responsive Web Design Fundamentals",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Cyber-Physical Systems Design & Analysis",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Intro to Cloud Computing",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Become a Marketing Analyst",
+    "headline": "Gain foundational data skills applicable to marketing. Collect and analyze data, model marketing scenarios, and communicate your findings with Excel, Tableau, Google Analytics, and Data Studio. ",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Brad Batesole",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Josh Bernhard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dana Sheahen",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Anke Audenaert",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "headline": "Get hands-on practice with over 100 data structures and algorithm exercises and technical mentor support when needed to help prepare you for interviews and on-the-job scenarios.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Brynn Claypoole",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": " Abe Feinberg",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Kyle Stewart-Franz",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become an iOS Developer",
+    "headline": "Master the Swift programming language, and create a portfolio of iOS apps for iPhone and iPad to showcase your skills!",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Jarrod Parkes",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Gabrielle Miller-Messner",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Kate Rotondo",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Owen LaRosa",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Natural Language Processing Expert",
+    "headline": "Master the skills to get computers to understand, process, and manipulate human language. Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jay Alammar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Arpan Chakraborty",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dana Sheahen",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Predictive Analytics for Business",
+    "headline": "Learn to apply predictive analytics and business intelligence to solve real-world business problems",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Patrick Nussbaumer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ben Burkholder",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Maureen Wolfson",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Rod Light",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Tony Moses",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "How to Install Android Studio",
+    "headline": null,
+    "image": null,
+    "instructors": []
+  },
+  {
+    "title": "Become a React Developer",
+    "headline": "React is completely transforming Front-End Development. Master this powerful UI library from Facebook with Udacity.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Andrew Wong",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Tyler McGinnis",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Richard Kalehoff",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Deep Reinforcement Learning Expert",
+    "headline": "Learn the deep reinforcement learning skills that are powering amazing advances in AI. Then start applying these to applications like video games and robotics.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Alexis Cook",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Arpan Chakraborty",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dana Sheahan",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Chhavi Yadav",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juan Delgado",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Miguel Morales",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a C++ Developer",
+    "headline": "Learn C++, a high-performance programming language used in the world's most exciting engineering jobs -- from self-driving cars and robotics, to web browsers, media platforms, servers, and even video games.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "David Silver",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Stephen Welch",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andreas Haja",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Artificial Intelligence for Trading",
+    "headline": "Complete real-world projects designed by industry experts, covering topics from asset management to trading signal generation. Master AI algorithms for trading, and build your career-ready portfolio.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Cindy Lin",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Arpan Chakraborty",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Elizabeth Otto Hamel",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Eddy Shyu",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Brok Bucholtz",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Parnian Barekatain",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juan Delgado",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become an Android Developer",
+    "headline": "Start your career as an Android developer. Learn best practices for mobile development, build a portfolio of apps, and publish your own app to Google Play.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "James Williams",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Reto Meier",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dan Galpin",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jocelyn Becker",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Katherine Kuan",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Lyla Fujiwara",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jennie Kim Eldon",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jessica Lin",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Asser Samak",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Nikita Gamolsky",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jeremy Silver",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jose Nieto",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "AI Programming with Python",
+    "headline": "Learn Python, NumPy, pandas, Matplotlib, PyTorch, Calculus, and Linear Algebra\u2014the foundations for building your own neural network.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Ortal Arel",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jennifer Staab",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juan Delgado",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Grant Sanderson",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mike Yi",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juno Lee",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrew Paster",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Expand Your Knowledge of Artificial Intelligence",
+    "headline": "Learn essential Artificial Intelligence concepts from AI experts like Peter Norvig and Sebastian Thrun, including search, optimization, planning, pattern recognition, and more.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Peter Norvig",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sebastian Thrun",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Thad Starner",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Business Analytics",
+    "headline": "Gain foundational data skills applicable to any industry. Collect and analyze data, model business scenarios, and communicate your findings with SQL, Excel, and Tableau.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dana Sheahan",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Derek Steer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sam Nelson",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Computer Vision Expert",
+    "headline": "Master the computer vision skills behind advances in robotics and automation. Write programs to analyze images, implement feature extraction, and recognize objects using deep learning models.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Sebastian Thrun",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Alexis Cook",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juan Delgado",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jay Alammar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ortal Arel",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Robotics Software Engineer",
+    "headline": "Build hands-on projects to acquire core robotics software engineering skills: ROS, Gazebo, Localization, Mapping, SLAM, Navigation, and Path Planning.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Sebastian Thrun",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "David Silver",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Karim Chamaa",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Julia Chernushevich",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Flying Car and Autonomous Flight Engineer",
+    "headline": "Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Nicholas Roy",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Angela Schoellig",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sebastian Thrun",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Raffaello D\u2019Andrea",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sergei Lupashin",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jake Lussier",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andy Brown",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Intro to Self-Driving Cars",
+    "headline": "This introductory program is the perfect way to start your journey.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Sebastian Thrun",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andy Brown",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrew Paster",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Anthony Navarro",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Elecia White",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Tarin Ziyaee",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Cloud Dev Ops Engineer",
+    "headline": "Companies are looking for talented DevOps engineers to remain competitive in this agile world. Enroll now to operationalize infrastructure at scale and deliver applications and services at high velocity, an essential skill for advancing your career.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Kesha Williams",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Carlos Rivas",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Noah Gift",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Byron Sommardahl",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Cloud Developer",
+    "headline": "Cloud development is the foundation for the new world of software development. Enroll now to build and deploy production-ready full stack apps at scale on AWS, an essential skill for advancing your web development career.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Kesha Williams",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Gabriel Ruttner",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Justin Lee",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ivan Mushketyk",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become an AWS Cloud Architect",
+    "headline": "Lead your organization's cloud computing strategy as an AWS Cloud Architect. Plan, design, and build secure, high availability cloud infrastructure.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Tom Verbiscer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Leslie Bell",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mehdi Razvi",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Activation and Retention Strategy",
+    "headline": "Guide users through the activation funnel as fast as possible, so they reach your product\u2019s aha-moment. Deploy experiments to improve customer lifetime value and decrease churn rate. ",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": []
+  },
+  {
+    "title": "Become a Digital Marketer",
+    "headline": "Gain real-world experience running live campaigns as you learn from top experts in the field. Launch your career with a 360-degree understanding of digital marketing.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Anke Audenaert",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Daniel Kob",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Julia Aspinal",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "AI for Healthcare",
+    "headline": "Be at the forefront of the revolution of AI in Healthcare, and transform patient outcomes. Enable enhanced medical decision-making powered by machine learning to build the treatments of the future.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Nikhil Bikhchandani",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Emily Lindemer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mazen Zawaideh",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ivan Tarapov",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Michael DAndrea",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a UX Designer",
+    "headline": "Design impactful user experiences for products in today\u2019s digital world. Build a portfolio that showcases your ability to transform user research to high-fidelity interactive designs.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Shuang Liu",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Gabriel Ruttner",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Michael Dedrick",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Melissa Hui",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Android Basics by Google",
+    "headline": "No programming experience? No Problem! Start developing Android apps today.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Katherine Kuan",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jessica Lin",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jennie Kim Eldon",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Asser Samak",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Lyla Fujiwara",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Joe Lewis",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Vicky Tu",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Chris Lei",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Deep Learning",
+    "headline": "Deep learning is driving advances in artificial intelligence that are changing our world. Enroll now to build and apply your own deep neural networks to challenges like image classification and generation, time-series prediction, and model deployment.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Alexis Cook",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jennifer Staab",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sean Carrell",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ortal Arel",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jay Alammar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Blockchain Developer",
+    "headline": "Demand for blockchain developers is skyrocketing. In this program, you'll work with the Bitcoin and Ethereum protocols, build projects for real-world application, and gain the essential skills for a career in this dynamic space.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Brandy Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jessica Lin",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Joe Nyzio",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Rachna Ralhan",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "PK Rasam",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Nik Kalyani",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Elena Nadolinski",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Learn to Code",
+    "headline": "Udacity's Intro to Programming is your first step towards careers in Web and App Development, Machine Learning, Data Science, AI, and more! This program is perfect for beginners.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Karl Krueger",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Kelly Howard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Julia Van Cleve",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Abe Feinberg",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "James Parkes",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Richard Kalehoff",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Data Scientist",
+    "headline": "Gain real-world data science experience with projects designed by industry experts. Build your portfolio and advance your data science career. ",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juno Lee",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrew Paster",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mike Yi",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "David Drummond",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Judit Lantos",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Data Engineer",
+    "headline": "Data Engineering is the foundation for the new world of Big Data. Enroll now to build production-ready data infrastructure, an essential skill for advancing your data career.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Amanda Moran",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ben Goldberg",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sameh El-Ansary",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Olli Iivonen",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "David Drummond",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Judit Lantos",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juno Lee",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Self-Driving Car Engineer",
+    "headline": "Self-driving cars are transformational technology, on the cutting-edge of robotics, machine learning, and engineering. Learn the skills and techniques used by self-driving car teams at the most advanced technology companies in the world.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Sebastian Thrun",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "David Silver",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ryan Keenan",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mercedes-Benz",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "NVIDIA",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Uber ATG",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Programming for Data Science with Python",
+    "headline": "Prepare for a data science career by learning the fundamental data programming tools: Python, SQL, command line, and git. ",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Derek Steer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juno Lee ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Richard Kalehoff",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Karl Krueger",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Learn SQL",
+    "headline": "Master SQL, the core language for Big Data analysis, and enable insight-driven decision-making and strategy for your business.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Malavica Sridhar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Ziad Saab",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Derek Steer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Machine Learning Engineer",
+    "headline": "Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Cezanne Camacho",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mat Leonard",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Luis Serrano",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Dan Romuald Mbanga",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jennifer Staab",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sean Carrell",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Jay Alammar",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrew Paster",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Data Product Manager",
+    "headline": "Leverage data to build products that deliver the right experiences, to the right users, at the right time. Lead the development of data-driven products that position businesses to win in their market.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "JJ Miclat",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Vaishali Agarwal",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Anne Rynearson",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Monetization Strategy Course",
+    "headline": "Hone specialized Product Management skills in monetization strategy by learning how to implement strategies to drive profitable growth for your business. Build and test pricing plans, target the right personas, and harness their full lifetime value.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Rizwan Ansary",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Applying Data Science to Product Management",
+    "headline": "Hone specialized skills in Data Product Management and learn how to model data, identify trends in data, and leverage those insights to develop data-backed product strategy.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "JJ Miclat",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Learn Intermediate JavaScript",
+    "headline": "Master JavaScript, the most popular programming language in the world. Be equipped for advanced roles in web development, server-side application development, and desktop development.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Alyssa Hope",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Rachel Manning",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Andrew Wong",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Richard Kalehoff ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Become a Data Analyst",
+    "headline": "Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Josh Bernhard ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sebastian Thrun",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Derek Steer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Juno Lee ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Mike Yi",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "David Venturi",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      },
+      {
+        "name": "Sam Nelson",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  },
+  {
+    "title": "Establishing Data Infrastructure",
+    "headline": "Learn how to make strategic decisions for your organization's data pipeline technology as you hone specialized skills in Data Product Management.",
+    "image": "<div class=\"nd-syllabus-term__header__image\" style=\"background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII)\"></div>",
+    "instructors": [
+      {
+        "name": "Vaishali Agarwal",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAApJREFUeNpjYAAAAAIAAeUn3vwAAAAASUVORK5CYII"
+      }
+    ]
+  }
+]
